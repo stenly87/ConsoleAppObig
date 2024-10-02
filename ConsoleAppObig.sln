@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppObig", "ConsoleAppObig\ConsoleAppObig.csproj", "{D9793655-956C-4B37-A1A3-DC86D765CEC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9793655-956C-4B37-A1A3-DC86D765CEC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9793655-956C-4B37-A1A3-DC86D765CEC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9793655-956C-4B37-A1A3-DC86D765CEC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9793655-956C-4B37-A1A3-DC86D765CEC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94D33A3A-4EC3-4D47-9DBA-9424B74907CD}
+	EndGlobalSection
+EndGlobal
